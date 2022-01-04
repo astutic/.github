@@ -1,6 +1,6 @@
 ![Try Acharya](/images/astutic-github-banner.png)
 
-Visit [acharya.astutic.com](https://acharya.astutic.com) to learn more!
+Visit [acharya website](https://acharya.astutic.com) to learn more!
  
 * [Explore Acharya features](https://acharya.astutic.com/docs/intro)
 * [Check Acharya FAQs](https://acharya.astutic.com/docs/faq)
@@ -12,7 +12,7 @@ Visit [acharya.astutic.com](https://acharya.astutic.com) to learn more!
 * [linkedin](https://www.linkedin.com/company/astutic/)
 * [Twitter](https://twitter.com/astuticai)
 
-And Subscriber to our Newsletters
+And Subscribe to our Newsletters
 ----
 
 We are a small boot-strapped startup, if you like using our tools please give us a :star:
