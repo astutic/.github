@@ -1,10 +1,6 @@
 ![Try Acharya](/images/astutic-github-banner.png)
 
-Visit [Acharya website](https://acharya.astutic.com) to learn more! | [Check Acharya FAQs](https://acharya.astutic.com/docs/faq) | [Acharya Docs](https://acharya.astutic.com/docs/intro)
-
-## Join discussions
-* [Github Discussions](https://github.com/astutic/Acharya/discussions)
-* [Discord channel](https://discord.gg/47ESmyNQ4C)
+Visit [Acharya website](https://acharya.astutic.com) to learn more! | [Check Acharya FAQs](https://acharya.astutic.com/docs/faq) | [Acharya Docs](https://acharya.astutic.com/docs/intro) | [Github Discussions](https://github.com/astutic/Acharya/discussions) | [Discord channel](https://discord.gg/47ESmyNQ4C)
 
 And Subscribe to our Newsletters
 ----
