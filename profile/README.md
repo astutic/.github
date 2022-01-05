@@ -1,21 +1,19 @@
 ![Try Acharya](/images/astutic-github-banner.png)
 
-Visit [acharya website](https://acharya.astutic.com) to learn more!
- 
-* [Explore Acharya features](https://acharya.astutic.com/docs/intro)
-* [Check Acharya FAQs](https://acharya.astutic.com/docs/faq)
+Visit [Acharya website](https://acharya.astutic.com) to learn more! | [Check Acharya FAQs](https://acharya.astutic.com/docs/faq) | [Acharya Docs](https://acharya.astutic.com/docs/intro)
 
-## Discussions
-* [Join our Discord channel](https://discord.gg/47ESmyNQ4C)
-
-## Follow us on
-* [linkedin](https://www.linkedin.com/company/astutic/)
-* [Twitter](https://twitter.com/astuticai)
+## Join discussions
+* [Github Discussions](https://github.com/astutic/Acharya/discussions)
+* [Discord channel](https://discord.gg/47ESmyNQ4C)
 
 And Subscribe to our Newsletters
 ----
 
-We are a small boot-strapped startup, if you like using our tools please give us a :star:
+We are a small boot-strapped startup, if you like using our tools please give us a [:star:](https://github.com/astutic/Acharya/stargazers)
+
+[![Follow us on Linkedin](https://img.shields.io/badge/Astutic--blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/company/astutic/)](https://www.linkedin.com/company/astutic/)
+[![Twitter Follow](https://img.shields.io/badge/Follow%20@astuticai--blue?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/astuticai)](https://twitter.com/astuticai)
+[![Acharya on youtube](https://img.shields.io/badge/Acharya--red?style=social&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UC2ZLN3GgNclQTa0JmkYV_yg)](https://www.youtube.com/channel/UC2ZLN3GgNclQTa0JmkYV_yg)
 
 
 <!--
