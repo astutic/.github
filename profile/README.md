@@ -1,9 +1,10 @@
 ![Try Acharya](/images/astutic-github-banner.png)
 
-Visit [Acharya website](https://acharya.astutic.com) to learn more! | [Check Acharya FAQs](https://acharya.astutic.com/docs/faq) | [Acharya Docs](https://acharya.astutic.com/docs/intro) | [Github Discussions](https://github.com/astutic/Acharya/discussions) | [Discord channel](https://discord.gg/47ESmyNQ4C)
+Visit [Acharya website](https://acharya.astutic.com) to learn more! | [Check Acharya FAQs](https://acharya.astutic.com/docs/faq) | [Acharya Docs](https://acharya.astutic.com/docs/intro) | [Discussions](https://github.com/astutic/Acharya/discussions) | [Discord](https://discord.gg/47ESmyNQ4C) | [Subscribe to Newsletter](https://landing.mailerlite.com/webforms/landing/o2o0j4)
 
-And Subscribe to our Newsletters
+And Our other tools
 ----
+[brat standoff format to JSON converter](https://github.com/astutic/brat-standoff-to-json)
 
 We are a small boot-strapped startup, if you like using our tools please give us a [:star:](https://github.com/astutic/Acharya/stargazers)
 
